@@ -10,4 +10,4 @@ Me and my friends create this project because SWU already have iOS application b
 - Development Period: 2nd year in Computer for Communication at College of Social Communication Innovation, Srinakharinwirot University
 - Repository: https://github.com/jojjoeeeeeee/swumap
 
-<img src="https://github.com/jojjoeeeeeee/Porfolio/blob/main/swumap.png?raw=true" alt="swumap" width="500"/>
+<img src="https://github.com/jojjoeeeeeee/Porfolio/blob/main/swumap.png?raw=true" alt="swumap" width="1000"/>
