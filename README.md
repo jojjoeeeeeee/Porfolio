@@ -1,6 +1,6 @@
 # Phakkharachate Jonganurak's Portfolio
-<br>
-#iOS Application
+
+# iOS Application
 ## SWUMap
 Application that display map at Srinakharinwirot University
 
@@ -24,7 +24,7 @@ Slideshow of IUPAC nomenclature of organic chemistry, Drag&Drop Quiz
 - Repository: private
 
 <img src="https://github.com/jojjoeeeeeee/Portfolio/blob/main/nomenchem.png?raw=true" alt="swumap" width="1000"/>
-<br>
+
 # Web Application
 ## COSCI - Software installation services
 CRUD-Application for Communication at College of Social Communication Innovation, Srinakharinwirot University
