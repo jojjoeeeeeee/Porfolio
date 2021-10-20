@@ -18,6 +18,6 @@ IUPAC nomenclature of organic chemistry Learning Application for Department of C
 Slideshow of IUPAC nomenclature of organic chemistry, Drag&Drop Quiz
 
 - Using: Swift Storyboard (Runtime UI), UIKit, SQLite
-- Development Role: System Analyst, Developer
+- Development Role: Back-end Developer
 - Development Period: 3nd year in Computer for Communication at College of Social Communication Innovation, Srinakharinwirot University
 - Repository: private
