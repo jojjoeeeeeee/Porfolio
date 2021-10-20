@@ -20,7 +20,7 @@ Slideshow of IUPAC nomenclature of organic chemistry, Drag&Drop Quiz
 
 - Using: Swift Storyboard (Runtime UI), UIKit, SQLite
 - Development Role: Back-end Developer
-- Development Period: 3nd year in Computer for Communication at College of Social Communication Innovation, Srinakharinwirot University
+- Development Period: 3rd year in Computer for Communication at College of Social Communication Innovation, Srinakharinwirot University
 - Repository: private
 
 <img src="https://github.com/jojjoeeeeeee/Portfolio/blob/main/nomenchem.png?raw=true" alt="nomenchem" width="1000"/>
