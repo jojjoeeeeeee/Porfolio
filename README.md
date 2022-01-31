@@ -14,7 +14,7 @@ Me and my friend create this project because SWU already have iOS application bu
 <img src="https://github.com/jojjoeeeeeee/Porfolio/blob/main/swumap.png?raw=true" alt="swumap" width="1000"/>
 
 ## NomenChem
-IUPAC nomenclature of organic chemistry Learning Application for Department of Chemistry,Faculty of Sciene, Srinakharinwirot University
+IUPAC nomenclature of organic chemistry Learning Application for Department of Chemistry,Faculty of Science, Srinakharinwirot University
 
 Slideshow of IUPAC nomenclature of organic chemistry, Drag&Drop Quiz
 
